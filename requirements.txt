@@ -1,0 +1,8 @@
+langchain_openai
+tiktoken
+python-dotenv
+bs4
+asyncio
+PyPDF2
+json_repair
+langchain
