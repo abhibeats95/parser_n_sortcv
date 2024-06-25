@@ -1,7 +1,6 @@
 # CV Sorting Application
 
-Welcome to the CV Sorting Application! This project uses LangChain to parse and sort CVs based on job descriptions. The application employs two parsers: one for parsing job descriptions and another for parsing CVs. This is the first commit of the project, providing the foundational functionality to parse and sort documents.
-
+Welcome to the CV Sorting Application! This project uses LangChain to parse and sort CVs based on job descriptions. The application employs two parsers: one for parsing job descriptions and another for parsing CVs. Currently only the cv parser is committed, it uses LLM to convert resumes of any format into structure JSON format. We will be soon delivering the sorting mechanism for resumes based on the given job description
 ## Table of Contents
 
 - [Features](#features)
